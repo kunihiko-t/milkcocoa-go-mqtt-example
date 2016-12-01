@@ -1,0 +1,3 @@
+package: github.com/kunihiko-t/milkcocoa-go-mqtt-example
+import:
+ - package: github.com/eclipse/paho.mqtt.golang
